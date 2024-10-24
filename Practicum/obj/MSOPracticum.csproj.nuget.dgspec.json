@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ouassim\\Documents\\Informatica\\Jaar 2 (2024-2025)\\Periode 1\\Modelleren en SysteemOntwerp\\VS\\MSOPracticum\\MSOPracticum.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ouassim\\Documents\\Informatica\\Jaar 2 (2024-2025)\\Periode 1\\Modelleren en SysteemOntwerp\\VS\\MSOPracticum\\MSOPracticum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ouassim\\Documents\\Informatica\\Jaar 2 (2024-2025)\\Periode 1\\Modelleren en SysteemOntwerp\\VS\\MSOPracticum\\MSOPracticum.csproj",
+        "projectName": "MSOPracticum",
+        "projectPath": "C:\\Users\\Ouassim\\Documents\\Informatica\\Jaar 2 (2024-2025)\\Periode 1\\Modelleren en SysteemOntwerp\\VS\\MSOPracticum\\MSOPracticum.csproj",
+        "packagesPath": "C:\\Users\\Ouassim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ouassim\\Documents\\Informatica\\Jaar 2 (2024-2025)\\Periode 1\\Modelleren en SysteemOntwerp\\VS\\MSOPracticum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ouassim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

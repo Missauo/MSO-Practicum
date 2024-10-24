@@ -1,0 +1,11 @@
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\bin\Debug\net6.0\Practicum.deps.json
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\bin\Debug\net6.0\Practicum.dll
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\bin\Debug\net6.0\Practicum.pdb
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\Practicum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\Practicum.AssemblyInfoInputs.cache
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\Practicum.AssemblyInfo.cs
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\Practicum.csproj.CoreCompileInputs.cache
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\Practicum.dll
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\refint\Practicum.dll
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\Practicum.pdb
+C:\Users\Ouassim\Documents\Informatica\Jaar 2 (2024-2025)\Periode 1\Modelleren en SysteemOntwerp\VS\MSOPracticum\obj\Debug\net6.0\ref\Practicum.dll
